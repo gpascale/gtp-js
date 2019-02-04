@@ -4,6 +4,7 @@
   "description": "My base eslint config",
   "author": "Greg Pascale <greg.pascale@gmail.com>",
   "homepage": "",
-  "license": "ISC",
-  "main": "eslintrc.js"
+  "license": "MIT",
+  "main": "eslintrc.js",
+  "gitHead": "0cc39b9da1733c03a3bb25a217564cd95b5e170b"
 }

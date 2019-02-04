@@ -4,7 +4,7 @@
   "description": "CSS in JS mixins/utils",
   "author": "Greg Pascale <greg.pascale@gmail.com>",
   "homepage": "",
-  "license": "ISC",
+  "license": "MIT",
   "main": "./eslintrc.js",
   "directories": {
     "lib": "lib",
@@ -15,5 +15,6 @@
   ],
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
-  }
+  },
+  "gitHead": "0cc39b9da1733c03a3bb25a217564cd95b5e170b"
 }
