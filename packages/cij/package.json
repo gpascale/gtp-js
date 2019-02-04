@@ -1,0 +1,19 @@
+{
+  "name": "@gtp/cij",
+  "version": "0.0.0",
+  "description": "CSS in JS mixins/utils",
+  "author": "Greg Pascale <greg.pascale@gmail.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "./eslintrc.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  }
+}

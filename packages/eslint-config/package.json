@@ -1,0 +1,9 @@
+{
+  "name": "@gtp/eslint-config",
+  "version": "0.0.1",
+  "description": "My base eslint config",
+  "author": "Greg Pascale <greg.pascale@gmail.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "eslintrc.js"
+}
