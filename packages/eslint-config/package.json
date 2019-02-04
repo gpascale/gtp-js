@@ -1,6 +1,6 @@
 {
   "name": "@gtp/eslint-config",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "My base eslint config",
   "author": "Greg Pascale <greg.pascale@gmail.com>",
   "homepage": "",
