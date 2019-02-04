@@ -1,6 +1,6 @@
 {
   "name": "@gtp/cij",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "CSS in JS mixins/utils",
   "author": "Greg Pascale <greg.pascale@gmail.com>",
   "homepage": "",
@@ -16,5 +16,5 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "0cc39b9da1733c03a3bb25a217564cd95b5e170b"
+  "gitHead": "9f48e0afb7cfce85a7fb48a1facb40e8554849bd"
 }

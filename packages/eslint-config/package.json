@@ -1,10 +1,10 @@
 {
   "name": "@gtp/eslint-config",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "My base eslint config",
   "author": "Greg Pascale <greg.pascale@gmail.com>",
   "homepage": "",
   "license": "MIT",
   "main": "eslintrc.js",
-  "gitHead": "0cc39b9da1733c03a3bb25a217564cd95b5e170b"
+  "gitHead": "9f48e0afb7cfce85a7fb48a1facb40e8554849bd"
 }
