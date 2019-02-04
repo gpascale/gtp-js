@@ -6,5 +6,8 @@
   "homepage": "",
   "license": "MIT",
   "main": "eslintrc.js",
-  "gitHead": "9f48e0afb7cfce85a7fb48a1facb40e8554849bd"
+  "gitHead": "2e3a452539c865b8f3fd502c5eaea59688c0aff1",
+  "publishConfig": {
+    "access": "public"
+  }
 }
