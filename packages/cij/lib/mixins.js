@@ -64,3 +64,11 @@ exports.spaceChildrenV = (amt='10px') => `
 exports.basicShadow = () => `
   box-shadow: 2px 2px 2px 0 rgba(0, 0, 0, 0.16), 0 0 0 1px rgba(0, 0, 0, 0.08);
 `;
+
+
+/******************************************************************************/
+// Misc
+exports.onEvent = (self=false) => `
+  ${self ? '&, ' : ''} &:hover, &:active, &:focus
+`;
+
