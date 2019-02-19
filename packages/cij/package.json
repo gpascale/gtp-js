@@ -1,6 +1,6 @@
 {
   "name": "@gtp/cij",
-  "version": "0.0.6",
+  "version": "0.1.0",
   "description": "CSS in JS mixins/utils",
   "author": "Greg Pascale <greg.pascale@gmail.com>",
   "homepage": "",
