@@ -13,25 +13,6 @@ module.exports = {
     sourceType: 'module'
   },
   rules: {
-    indent: [
-      'error',
-      2,
-      {
-        SwitchCase: 1,
-        flatTernaryExpressions: true,
-        ObjectExpression: 'off',
-        ArrayExpression: 'off'
-      }
-    ],
-    'max-len': [
-      'error',
-      {
-        code: 100,
-        tabWidth: 2,
-        ignoreComments: true,
-        ignoreTrailingComments: true
-      }
-    ],
     'linebreak-style': ['error', 'unix'],
     quotes: ['error', 'single', { avoidEscape: true }],
     semi: ['error', 'always'],
@@ -43,13 +24,11 @@ module.exports = {
         varsIgnorePattern: 'React|jsx'
       }
     ],
-    'brace-style': ['error', 'stroustrup', { allowSingleLine: true }],
     'no-console': 0,
     'no-useless-escape': 0,
     'no-debugger': 0,
     'space-before-function-paren': 'off',
     'global-require': 'off',
     'arrow-body-style': 'off',
-    'newline-per-chained-call': ['error', { ignoreChainWithDepth: 1 }]
   }
 };
