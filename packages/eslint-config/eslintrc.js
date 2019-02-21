@@ -21,7 +21,7 @@ module.exports = {
       {
         vars: 'all',
         argsIgnorePattern: '(next|err|req|res|_.*)',
-        varsIgnorePattern: 'React|jsx'
+        varsIgnorePattern: '(React|jsx|_.*)'
       }
     ],
     'no-console': 0,
