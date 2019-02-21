@@ -30,5 +30,6 @@ module.exports = {
     'space-before-function-paren': 'off',
     'global-require': 'off',
     'arrow-body-style': 'off',
+    'eqeqeq': [ 'error', 'smart' ]
   }
 };
