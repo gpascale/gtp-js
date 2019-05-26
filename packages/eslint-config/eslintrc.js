@@ -30,6 +30,12 @@ module.exports = {
     'space-before-function-paren': 'off',
     'global-require': 'off',
     'arrow-body-style': 'off',
-    'eqeqeq': [ 'error', 'smart' ]
+    'eqeqeq': ['error', 'smart'],
+    'newline-per-chained-call': 0,
+    'max-len': 0,
+    'brace-style': 0,
+    'react/jsx-uses-vars': 1,
+    'react/prefer-stateless-function': 'warn',
+    'react/jsx-filename-extension': [1, { extensions: ['.js', '.jsx'] }]
   }
 };
